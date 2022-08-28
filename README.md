@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning New technology
 - 🌱 I’m currently learning VueJS
 - 💞️ I’m looking to collaborate on Open Source Project
-- 📫 How to reach me Telgram: a_raziq
+- 📫 How to reach me Telegram: a_raziq
 
 <!---
 raziq-quraishi/raziq-quraishi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
