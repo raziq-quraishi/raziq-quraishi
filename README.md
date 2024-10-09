@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raziq-quraishi
 - 👀 I’m interested in Learning New technology
-- 🌱 I’m currently learning VueJS
+- 🌱 I’m currently learning New Frontend Technology
 - 💞️ I’m looking to collaborate on Open Source Project
 - 📫 How to reach me Telegram: @A_Raziq
 
